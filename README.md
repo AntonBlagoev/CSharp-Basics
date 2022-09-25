@@ -19,6 +19,7 @@ End Date: 27.02.2022
 
 ## Lectures 
 
+
 \- 01. First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova 
 
 \- 01. First Steps in Coding (Exercise) - 09.01.2022, lecturer Ivet Valcheva 
