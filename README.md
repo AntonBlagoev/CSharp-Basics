@@ -20,7 +20,7 @@ End Date: 27.02.2022
 ## Lectures 
 
 
-[00. Course Introduction[(https://github.com/AntonBlagoev/CSharp-Basics/tree/main/00.Course-Introduction)
+[00. Course Introduction](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/00.Course-Introduction)
 
 [01. First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/01.First-Steps-in-Coding)
 
