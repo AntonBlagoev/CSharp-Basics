@@ -58,15 +58,12 @@ End Date: 27.02.2022
 
 ## Links 
 
-[GitHub Pages](https://pages.github.com/)
+[SoftUni course page](https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022#lesson-36460)
 
-https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022#lesson-36460
+[SoftUni Judge system](https://judge.softuni.org/Contests/#!/List/ByCategory/15/Programming-Basics)
 
-https://judge.softuni.org/Contests/#!/List/ByCategory/15/Programming-Basics
+[Discord group of course](https://www.facebook.com/groups/PBwithCsharpJanuary2022)
 
-https://www.facebook.com/groups/PBwithCsharpJanuary2022
+[Paste Bin](https://pastebin.com/)
 
-https://discord.gg/xBY2YMB3Jg
-
-https://pastebin.com/
 
