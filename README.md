@@ -7,7 +7,6 @@
 ## C# Basics - January 2022
 
 Start Date: 08.01.2022
-
 End Date: 27.02.2022
 
 
