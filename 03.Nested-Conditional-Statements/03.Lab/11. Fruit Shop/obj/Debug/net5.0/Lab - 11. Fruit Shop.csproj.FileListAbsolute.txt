@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\Lab - 11. Fruit Shop.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\Lab - 11. Fruit Shop.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\Lab - 11. Fruit Shop.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\Lab - 11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\Lab - 11. Fruit Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\ref\Lab - 11. Fruit Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\bin\Debug\net5.0\Lab - 11. Fruit Shop.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\ref\Lab - 11. Fruit Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 11. Fruit Shop\obj\Debug\net5.0\Lab - 11. Fruit Shop.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\Lab - 07. Min Number.exe
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\Lab - 07. Min Number.deps.json
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\Lab - 07. Min Number.runtimeconfig.json
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\Lab - 07. Min Number.runtimeconfig.dev.json
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\Lab - 07. Min Number.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\ref\Lab - 07. Min Number.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\bin\Debug\net5.0\Lab - 07. Min Number.pdb
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.AssemblyInfo.cs
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\ref\Lab - 07. Min Number.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.pdb
+C:\Users\anton\source\repos\5. While Loop\Lab - 07. Min Number\obj\Debug\net5.0\Lab - 07. Min Number.genruntimeconfig.cache

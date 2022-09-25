@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.exe
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.deps.json
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\ref\06. Easter Decoration.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\bin\Debug\net5.0\06. Easter Decoration.pdb
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\ref\06. Easter Decoration.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.pdb
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\06. Easter Decoration\obj\Debug\net5.0\06. Easter Decoration.genruntimeconfig.cache

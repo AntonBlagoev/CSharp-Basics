@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\Exercise - 04. Walking.exe
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\Exercise - 04. Walking.deps.json
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\Exercise - 04. Walking.runtimeconfig.json
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\Exercise - 04. Walking.runtimeconfig.dev.json
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\Exercise - 04. Walking.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\ref\Exercise - 04. Walking.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\bin\Debug\net5.0\Exercise - 04. Walking.pdb
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.AssemblyInfo.cs
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\ref\Exercise - 04. Walking.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.pdb
+C:\Users\anton\source\repos\5. While Loop\Exercise - 04. Walking\obj\Debug\net5.0\Exercise - 04. Walking.genruntimeconfig.cache

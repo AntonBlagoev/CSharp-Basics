@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\05. Darts.exe
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\05. Darts.deps.json
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\05. Darts.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\05. Darts.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\05. Darts.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\ref\05. Darts.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\bin\Debug\net5.0\05. Darts.pdb
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\ref\05. Darts.dll
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.pdb
+C:\Users\anton\source\repos\Exam Preparation - 2021.11\05. Darts\obj\Debug\net5.0\05. Darts.genruntimeconfig.cache

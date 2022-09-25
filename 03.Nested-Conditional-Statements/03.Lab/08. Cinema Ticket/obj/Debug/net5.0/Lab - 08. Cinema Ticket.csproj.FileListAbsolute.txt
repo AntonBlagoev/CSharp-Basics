@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\Lab - 08. Cinema Ticket.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\Lab - 08. Cinema Ticket.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\Lab - 08. Cinema Ticket.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\Lab - 08. Cinema Ticket.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\Lab - 08. Cinema Ticket.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\ref\Lab - 08. Cinema Ticket.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\bin\Debug\net5.0\Lab - 08. Cinema Ticket.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\ref\Lab - 08. Cinema Ticket.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 08. Cinema Ticket\obj\Debug\net5.0\Lab - 08. Cinema Ticket.genruntimeconfig.cache

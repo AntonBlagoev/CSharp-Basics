@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\Lab - 01. Clock.exe
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\Lab - 01. Clock.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\Lab - 01. Clock.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\Lab - 01. Clock.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\Lab - 01. Clock.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\ref\Lab - 01. Clock.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\bin\Debug\net5.0\Lab - 01. Clock.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\ref\Lab - 01. Clock.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 01. Clock\obj\Debug\net5.0\Lab - 01. Clock.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EXAM - 2022.02.20/1.0.0": {
+        "runtime": {
+          "EXAM - 2022.02.20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXAM - 2022.02.20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

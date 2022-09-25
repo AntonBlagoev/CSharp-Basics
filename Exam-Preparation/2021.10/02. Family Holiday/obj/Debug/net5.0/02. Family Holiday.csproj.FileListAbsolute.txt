@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\02. Family Holiday.exe
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\02. Family Holiday.deps.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\02. Family Holiday.runtimeconfig.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\02. Family Holiday.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\02. Family Holiday.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\ref\02. Family Holiday.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\bin\Debug\net5.0\02. Family Holiday.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\ref\02. Family Holiday.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\02. Family Holiday\obj\Debug\net5.0\02. Family Holiday.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\Lab - 05. Character Sequence.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\Lab - 05. Character Sequence.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\Lab - 05. Character Sequence.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\Lab - 05. Character Sequence.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\Lab - 05. Character Sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\ref\Lab - 05. Character Sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\bin\Debug\net5.0\Lab - 05. Character Sequence.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\ref\Lab - 05. Character Sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 05. Character Sequence\obj\Debug\net5.0\Lab - 05. Character Sequence.genruntimeconfig.cache

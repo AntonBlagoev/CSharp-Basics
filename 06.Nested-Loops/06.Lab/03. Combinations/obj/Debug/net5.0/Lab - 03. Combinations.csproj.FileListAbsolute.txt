@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\Lab - 03. Combinations.exe
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\Lab - 03. Combinations.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\Lab - 03. Combinations.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\Lab - 03. Combinations.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\Lab - 03. Combinations.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\ref\Lab - 03. Combinations.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\bin\Debug\net5.0\Lab - 03. Combinations.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\ref\Lab - 03. Combinations.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 03. Combinations\obj\Debug\net5.0\Lab - 03. Combinations.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\05. The Battle of the Easter Eggs.exe
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\05. The Battle of the Easter Eggs.deps.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\05. The Battle of the Easter Eggs.runtimeconfig.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\05. The Battle of the Easter Eggs.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\05. The Battle of the Easter Eggs.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\ref\05. The Battle of the Easter Eggs.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\bin\Debug\net5.0\05. The Battle of the Easter Eggs.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\ref\05. The Battle of the Easter Eggs.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\05. The Battle of the Easter Eggs\obj\Debug\net5.0\05. The Battle of the Easter Eggs.genruntimeconfig.cache

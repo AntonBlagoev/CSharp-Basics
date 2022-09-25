@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\Exercise - 08. Tennis Ranklist.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\Exercise - 08. Tennis Ranklist.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\Exercise - 08. Tennis Ranklist.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\Exercise - 08. Tennis Ranklist.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\Exercise - 08. Tennis Ranklist.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\ref\Exercise - 08. Tennis Ranklist.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\bin\Debug\net5.0\Exercise - 08. Tennis Ranklist.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\ref\Exercise - 08. Tennis Ranklist.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 08. Tennis Ranklist\obj\Debug\net5.0\Exercise - 08. Tennis Ranklist.genruntimeconfig.cache

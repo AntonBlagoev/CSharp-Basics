@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\Exercise - 04. Train The Trainers.exe
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\Exercise - 04. Train The Trainers.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\Exercise - 04. Train The Trainers.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\Exercise - 04. Train The Trainers.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\Exercise - 04. Train The Trainers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\ref\Exercise - 04. Train The Trainers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\bin\Debug\net5.0\Exercise - 04. Train The Trainers.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\ref\Exercise - 04. Train The Trainers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.genruntimeconfig.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 04. Train The Trainers\obj\Debug\net5.0\Exercise - 04. Train The Trainers.csproj.AssemblyReference.cache

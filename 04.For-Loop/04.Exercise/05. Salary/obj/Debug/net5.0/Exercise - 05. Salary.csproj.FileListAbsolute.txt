@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\Exercise - 05. Salary.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\Exercise - 05. Salary.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\Exercise - 05. Salary.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\Exercise - 05. Salary.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\Exercise - 05. Salary.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\ref\Exercise - 05. Salary.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\bin\Debug\net5.0\Exercise - 05. Salary.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\ref\Exercise - 05. Salary.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 05. Salary\obj\Debug\net5.0\Exercise - 05. Salary.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\Exercise - 07. Trekking Mania.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\Exercise - 07. Trekking Mania.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\Exercise - 07. Trekking Mania.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\Exercise - 07. Trekking Mania.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\Exercise - 07. Trekking Mania.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\ref\Exercise - 07. Trekking Mania.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\bin\Debug\net5.0\Exercise - 07. Trekking Mania.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\ref\Exercise - 07. Trekking Mania.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 07. Trekking Mania\obj\Debug\net5.0\Exercise - 07. Trekking Mania.genruntimeconfig.cache

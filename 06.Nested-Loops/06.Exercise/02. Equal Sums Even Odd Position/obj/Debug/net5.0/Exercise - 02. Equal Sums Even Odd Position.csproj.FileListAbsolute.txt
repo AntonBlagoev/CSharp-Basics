@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.exe
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\ref\Exercise - 02. Equal Sums Even Odd Position.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\bin\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\ref\Exercise - 02. Equal Sums Even Odd Position.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.genruntimeconfig.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 02. Equal Sums Even Odd Position\obj\Debug\net5.0\Exercise - 02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\Lab - 06. Building.exe
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\Lab - 06. Building.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\Lab - 06. Building.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\Lab - 06. Building.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\Lab - 06. Building.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\ref\Lab - 06. Building.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\bin\Debug\net5.0\Lab - 06. Building.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\ref\Lab - 06. Building.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.genruntimeconfig.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 06. Building\obj\Debug\net5.0\Lab - 06. Building.csproj.AssemblyReference.cache

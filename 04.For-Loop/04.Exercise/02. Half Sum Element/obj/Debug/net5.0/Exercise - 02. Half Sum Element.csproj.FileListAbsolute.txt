@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\Exercise - 02. Half Sum Element.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\Exercise - 02. Half Sum Element.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\Exercise - 02. Half Sum Element.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\Exercise - 02. Half Sum Element.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\Exercise - 02. Half Sum Element.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\ref\Exercise - 02. Half Sum Element.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\bin\Debug\net5.0\Exercise - 02. Half Sum Element.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\ref\Exercise - 02. Half Sum Element.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 02. Half Sum Element\obj\Debug\net5.0\Exercise - 02. Half Sum Element.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\06. Barcode Generator.exe
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\06. Barcode Generator.deps.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\06. Barcode Generator.runtimeconfig.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\06. Barcode Generator.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\06. Barcode Generator.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\ref\06. Barcode Generator.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\bin\Debug\net5.0\06. Barcode Generator.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\ref\06. Barcode Generator.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\06. Barcode Generator\obj\Debug\net5.0\06. Barcode Generator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\Lab - 08. Graduation.exe
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\Lab - 08. Graduation.deps.json
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\Lab - 08. Graduation.runtimeconfig.json
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\Lab - 08. Graduation.runtimeconfig.dev.json
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\Lab - 08. Graduation.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\ref\Lab - 08. Graduation.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\bin\Debug\net5.0\Lab - 08. Graduation.pdb
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.AssemblyInfo.cs
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\ref\Lab - 08. Graduation.dll
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.pdb
+C:\Users\anton\source\repos\5. While Loop\Lab - 08. Graduation\obj\Debug\net5.0\Lab - 08. Graduation.genruntimeconfig.cache

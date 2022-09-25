@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\Exercise - 04. Clever Lily.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\Exercise - 04. Clever Lily.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\Exercise - 04. Clever Lily.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\Exercise - 04. Clever Lily.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\Exercise - 04. Clever Lily.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\ref\Exercise - 04. Clever Lily.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\bin\Debug\net5.0\Exercise - 04. Clever Lily.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\ref\Exercise - 04. Clever Lily.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 04. Clever Lily\obj\Debug\net5.0\Exercise - 04. Clever Lily.genruntimeconfig.cache

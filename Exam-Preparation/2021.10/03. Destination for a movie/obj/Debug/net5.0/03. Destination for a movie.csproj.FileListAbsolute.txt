@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\03. Destination for a movie.exe
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\03. Destination for a movie.deps.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\03. Destination for a movie.runtimeconfig.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\03. Destination for a movie.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\03. Destination for a movie.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\ref\03. Destination for a movie.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\bin\Debug\net5.0\03. Destination for a movie.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\ref\03. Destination for a movie.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\03. Destination for a movie\obj\Debug\net5.0\03. Destination for a movie.genruntimeconfig.cache

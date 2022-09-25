@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\01. Pool Day.exe
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\01. Pool Day.deps.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\01. Pool Day.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\01. Pool Day.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\01. Pool Day.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\ref\01. Pool Day.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\bin\Debug\net5.0\01. Pool Day.pdb
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\ref\01. Pool Day.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.pdb
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\01. Pool Day\obj\Debug\net5.0\01. Pool Day.genruntimeconfig.cache

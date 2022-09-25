@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\Lab - 04. Sum of Two Numbers.exe
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\Lab - 04. Sum of Two Numbers.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\Lab - 04. Sum of Two Numbers.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\Lab - 04. Sum of Two Numbers.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\Lab - 04. Sum of Two Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\ref\Lab - 04. Sum of Two Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\bin\Debug\net5.0\Lab - 04. Sum of Two Numbers.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\ref\Lab - 04. Sum of Two Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 04. Sum of Two Numbers\obj\Debug\net5.0\Lab - 04. Sum of Two Numbers.genruntimeconfig.cache

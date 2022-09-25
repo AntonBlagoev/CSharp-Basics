@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\04. Pet food.exe
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\04. Pet food.deps.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\04. Pet food.runtimeconfig.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\04. Pet food.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\04. Pet food.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\ref\04. Pet food.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\bin\Debug\net5.0\04. Pet food.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\ref\04. Pet food.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\04. Pet food\obj\Debug\net5.0\04. Pet food.genruntimeconfig.cache

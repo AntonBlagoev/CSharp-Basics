@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\LAb - 05. Travelling.exe
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\LAb - 05. Travelling.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\LAb - 05. Travelling.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\LAb - 05. Travelling.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\LAb - 05. Travelling.dll
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\ref\LAb - 05. Travelling.dll
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\bin\Debug\net5.0\LAb - 05. Travelling.pdb
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.dll
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\ref\LAb - 05. Travelling.dll
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.pdb
+C:\Users\anton\source\repos\6. Nested Loops\LAb - 05. Travelling\obj\Debug\net5.0\LAb - 05. Travelling.genruntimeconfig.cache

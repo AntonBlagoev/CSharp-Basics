@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\Lab - 02.Weekend or Working Day.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\Lab - 02.Weekend or Working Day.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\Lab - 02.Weekend or Working Day.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\Lab - 02.Weekend or Working Day.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\Lab - 02.Weekend or Working Day.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\ref\Lab - 02.Weekend or Working Day.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\bin\Debug\net5.0\Lab - 02.Weekend or Working Day.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\ref\Lab - 02.Weekend or Working Day.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 02.Weekend or Working Day\obj\Debug\net5.0\Lab - 02.Weekend or Working Day.genruntimeconfig.cache

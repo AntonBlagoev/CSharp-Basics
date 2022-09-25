@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\Lab - 06. Speed Info.exe
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\Lab - 06. Speed Info.deps.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\Lab - 06. Speed Info.runtimeconfig.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\Lab - 06. Speed Info.runtimeconfig.dev.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\Lab - 06. Speed Info.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\ref\Lab - 06. Speed Info.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\bin\Debug\net5.0\Lab - 06. Speed Info.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.AssemblyInfo.cs
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\ref\Lab - 06. Speed Info.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 06. Speed Info\obj\Debug\net5.0\Lab - 06. Speed Info.genruntimeconfig.cache

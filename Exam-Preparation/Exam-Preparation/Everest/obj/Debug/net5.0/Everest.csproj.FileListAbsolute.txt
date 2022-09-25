@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\Everest.exe
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\Everest.deps.json
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\Everest.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\Everest.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\Everest.dll
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\ref\Everest.dll
+C:\Users\anton\source\repos\Exam Prperation\Everest\bin\Debug\net5.0\Everest.pdb
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.dll
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\ref\Everest.dll
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.pdb
+C:\Users\anton\source\repos\Exam Prperation\Everest\obj\Debug\net5.0\Everest.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\Lab - 02. Greater Number.exe
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\Lab - 02. Greater Number.deps.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\Lab - 02. Greater Number.runtimeconfig.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\Lab - 02. Greater Number.runtimeconfig.dev.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\Lab - 02. Greater Number.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\ref\Lab - 02. Greater Number.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\bin\Debug\net5.0\Lab - 02. Greater Number.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.AssemblyInfo.cs
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\ref\Lab - 02. Greater Number.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 02. Greater Number\obj\Debug\net5.0\Lab - 02. Greater Number.genruntimeconfig.cache

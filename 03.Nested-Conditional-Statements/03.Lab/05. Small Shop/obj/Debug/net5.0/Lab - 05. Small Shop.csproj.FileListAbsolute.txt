@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\Lab - 05. Small Shop.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\Lab - 05. Small Shop.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\Lab - 05. Small Shop.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\Lab - 05. Small Shop.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\Lab - 05. Small Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\ref\Lab - 05. Small Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\bin\Debug\net5.0\Lab - 05. Small Shop.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\ref\Lab - 05. Small Shop.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 05. Small Shop\obj\Debug\net5.0\Lab - 05. Small Shop.genruntimeconfig.cache

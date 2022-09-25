@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\Lab - 06. Vowels Sum.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\Lab - 06. Vowels Sum.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\Lab - 06. Vowels Sum.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\Lab - 06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\Lab - 06. Vowels Sum.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\ref\Lab - 06. Vowels Sum.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\bin\Debug\net5.0\Lab - 06. Vowels Sum.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\ref\Lab - 06. Vowels Sum.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 06. Vowels Sum\obj\Debug\net5.0\Lab - 06. Vowels Sum.genruntimeconfig.cache

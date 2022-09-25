@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\Exercise - 02. Bonus Score.exe
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\Exercise - 02. Bonus Score.deps.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\Exercise - 02. Bonus Score.runtimeconfig.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\Exercise - 02. Bonus Score.runtimeconfig.dev.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\Exercise - 02. Bonus Score.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\ref\Exercise - 02. Bonus Score.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\bin\Debug\net5.0\Exercise - 02. Bonus Score.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.AssemblyInfo.cs
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\ref\Exercise - 02. Bonus Score.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 02. Bonus Score\obj\Debug\net5.0\Exercise - 02. Bonus Score.genruntimeconfig.cache

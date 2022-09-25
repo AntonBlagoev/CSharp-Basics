@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.exe
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.deps.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\ref\03. Coffee Machine.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\bin\Debug\net5.0\03. Coffee Machine.pdb
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\ref\03. Coffee Machine.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.pdb
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\03. Coffee Machine\obj\Debug\net5.0\03. Coffee Machine.genruntimeconfig.cache

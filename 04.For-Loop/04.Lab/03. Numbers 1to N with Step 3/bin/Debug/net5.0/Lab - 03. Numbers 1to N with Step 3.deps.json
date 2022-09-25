@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab - 03. Numbers 1to N with Step 3/1.0.0": {
+        "runtime": {
+          "Lab - 03. Numbers 1to N with Step 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab - 03. Numbers 1to N with Step 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

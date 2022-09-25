@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\Exercise - 03. New House.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\Exercise - 03. New House.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\Exercise - 03. New House.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\Exercise - 03. New House.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\Exercise - 03. New House.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\ref\Exercise - 03. New House.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\bin\Debug\net5.0\Exercise - 03. New House.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\ref\Exercise - 03. New House.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 03. New House\obj\Debug\net5.0\Exercise - 03. New House.genruntimeconfig.cache

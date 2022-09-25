@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\Lab - 09. Fruit or Vegetable.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\Lab - 09. Fruit or Vegetable.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\Lab - 09. Fruit or Vegetable.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\Lab - 09. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\Lab - 09. Fruit or Vegetable.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\ref\Lab - 09. Fruit or Vegetable.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\bin\Debug\net5.0\Lab - 09. Fruit or Vegetable.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\ref\Lab - 09. Fruit or Vegetable.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 09. Fruit or Vegetable\obj\Debug\net5.0\Lab - 09. Fruit or Vegetable.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\Exercise - 08. On Time for the Exam.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\Exercise - 08. On Time for the Exam.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\Exercise - 08. On Time for the Exam.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\Exercise - 08. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\Exercise - 08. On Time for the Exam.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\ref\Exercise - 08. On Time for the Exam.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\bin\Debug\net5.0\Exercise - 08. On Time for the Exam.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\ref\Exercise - 08. On Time for the Exam.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 08. On Time for the Exam\obj\Debug\net5.0\Exercise - 08. On Time for the Exam.genruntimeconfig.cache

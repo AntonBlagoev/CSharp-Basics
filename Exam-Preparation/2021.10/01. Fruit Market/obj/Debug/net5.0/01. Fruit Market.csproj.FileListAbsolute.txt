@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.exe
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.deps.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.runtimeconfig.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.runtimeconfig.dev.json
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\ref\01. Fruit Market.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\bin\Debug\net5.0\01. Fruit Market.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.AssemblyInfo.cs
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\ref\01. Fruit Market.dll
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.pdb
+C:\Users\anton\source\repos\ExamPreparation-2021.10\01. Fruit Market\obj\Debug\net5.0\01. Fruit Market.genruntimeconfig.cache

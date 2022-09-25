@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\Exercise - 05. Special Numbers.exe
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\Exercise - 05. Special Numbers.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\Exercise - 05. Special Numbers.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\Exercise - 05. Special Numbers.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\Exercise - 05. Special Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\ref\Exercise - 05. Special Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\bin\Debug\net5.0\Exercise - 05. Special Numbers.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\ref\Exercise - 05. Special Numbers.dll
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Exercise - 05. Special Numbers\obj\Debug\net5.0\Exercise - 05. Special Numbers.genruntimeconfig.cache

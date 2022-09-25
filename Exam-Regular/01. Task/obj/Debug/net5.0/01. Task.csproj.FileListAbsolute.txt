@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\01. Task.exe
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\01. Task.deps.json
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\01. Task.runtimeconfig.json
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\01. Task.runtimeconfig.dev.json
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\01. Task.dll
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\ref\01. Task.dll
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\bin\Debug\net5.0\01. Task.pdb
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.AssemblyInfo.cs
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.dll
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\ref\01. Task.dll
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.pdb
+C:\Users\anton\source\repos\EXAM - 2022.02.20\01. Task\obj\Debug\net5.0\01. Task.genruntimeconfig.cache

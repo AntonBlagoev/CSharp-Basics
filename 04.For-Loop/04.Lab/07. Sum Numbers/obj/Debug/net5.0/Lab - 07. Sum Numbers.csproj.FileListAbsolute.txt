@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\Lab - 07. Sum Numbers.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\Lab - 07. Sum Numbers.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\Lab - 07. Sum Numbers.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\Lab - 07. Sum Numbers.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\Lab - 07. Sum Numbers.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\ref\Lab - 07. Sum Numbers.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\bin\Debug\net5.0\Lab - 07. Sum Numbers.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\ref\Lab - 07. Sum Numbers.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 07. Sum Numbers\obj\Debug\net5.0\Lab - 07. Sum Numbers.genruntimeconfig.cache

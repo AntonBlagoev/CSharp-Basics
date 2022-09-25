@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab - 07. Working Hours/1.0.0": {
+        "runtime": {
+          "Lab - 07. Working Hours.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab - 07. Working Hours/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

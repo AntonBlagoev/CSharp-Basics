@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\02. Family Trip.exe
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\02. Family Trip.deps.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\02. Family Trip.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\02. Family Trip.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\02. Family Trip.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\ref\02. Family Trip.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\bin\Debug\net5.0\02. Family Trip.pdb
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\ref\02. Family Trip.dll
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.pdb
+C:\Users\anton\source\repos\Exam Preperation - 2021.07.06-07\02. Family Trip\obj\Debug\net5.0\02. Family Trip.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\Exercise - 04. Fishing Boat.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\Exercise - 04. Fishing Boat.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\Exercise - 04. Fishing Boat.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\Exercise - 04. Fishing Boat.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\Exercise - 04. Fishing Boat.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\ref\Exercise - 04. Fishing Boat.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\bin\Debug\net5.0\Exercise - 04. Fishing Boat.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\ref\Exercise - 04. Fishing Boat.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 04. Fishing Boat\obj\Debug\net5.0\Exercise - 04. Fishing Boat.genruntimeconfig.cache

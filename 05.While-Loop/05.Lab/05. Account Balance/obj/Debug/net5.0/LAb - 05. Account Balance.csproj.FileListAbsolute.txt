@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\LAb - 05. Account Balance.exe
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\LAb - 05. Account Balance.deps.json
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\LAb - 05. Account Balance.runtimeconfig.json
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\LAb - 05. Account Balance.runtimeconfig.dev.json
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\LAb - 05. Account Balance.dll
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\ref\LAb - 05. Account Balance.dll
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\bin\Debug\net5.0\LAb - 05. Account Balance.pdb
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.AssemblyInfo.cs
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.dll
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\ref\LAb - 05. Account Balance.dll
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.pdb
+C:\Users\anton\source\repos\5. While Loop\LAb - 05. Account Balance\obj\Debug\net5.0\LAb - 05. Account Balance.genruntimeconfig.cache

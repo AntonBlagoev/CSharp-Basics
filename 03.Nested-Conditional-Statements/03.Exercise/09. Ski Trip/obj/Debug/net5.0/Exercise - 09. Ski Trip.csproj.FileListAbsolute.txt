@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\Exercise - 09. Ski Trip.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\Exercise - 09. Ski Trip.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\Exercise - 09. Ski Trip.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\Exercise - 09. Ski Trip.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\Exercise - 09. Ski Trip.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\ref\Exercise - 09. Ski Trip.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\bin\Debug\net5.0\Exercise - 09. Ski Trip.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\ref\Exercise - 09. Ski Trip.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 09. Ski Trip\obj\Debug\net5.0\Exercise - 09. Ski Trip.genruntimeconfig.cache

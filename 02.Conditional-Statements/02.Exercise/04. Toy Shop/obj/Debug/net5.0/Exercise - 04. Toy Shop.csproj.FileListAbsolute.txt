@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\Exercise - 04. Toy Shop.exe
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\Exercise - 04. Toy Shop.deps.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\Exercise - 04. Toy Shop.runtimeconfig.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\Exercise - 04. Toy Shop.runtimeconfig.dev.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\Exercise - 04. Toy Shop.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\ref\Exercise - 04. Toy Shop.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\bin\Debug\net5.0\Exercise - 04. Toy Shop.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.AssemblyInfo.cs
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\ref\Exercise - 04. Toy Shop.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 04. Toy Shop\obj\Debug\net5.0\Exercise - 04. Toy Shop.genruntimeconfig.cache

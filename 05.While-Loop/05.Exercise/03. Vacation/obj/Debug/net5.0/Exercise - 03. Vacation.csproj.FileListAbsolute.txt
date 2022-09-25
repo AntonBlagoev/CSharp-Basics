@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\Exercise - 03. Vacation.exe
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\Exercise - 03. Vacation.deps.json
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\Exercise - 03. Vacation.runtimeconfig.json
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\Exercise - 03. Vacation.runtimeconfig.dev.json
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\Exercise - 03. Vacation.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\ref\Exercise - 03. Vacation.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\bin\Debug\net5.0\Exercise - 03. Vacation.pdb
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.AssemblyInfo.cs
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\ref\Exercise - 03. Vacation.dll
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.pdb
+C:\Users\anton\source\repos\5. While Loop\Exercise - 03. Vacation\obj\Debug\net5.0\Exercise - 03. Vacation.genruntimeconfig.cache

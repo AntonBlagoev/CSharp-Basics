@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\5. Movie rating.exe
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\5. Movie rating.deps.json
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\5. Movie rating.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\5. Movie rating.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\5. Movie rating.dll
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\ref\5. Movie rating.dll
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\bin\Debug\net5.0\5. Movie rating.pdb
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.dll
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\ref\5. Movie rating.dll
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.pdb
+C:\Users\anton\source\repos\Exam Prperation\5. Movie rating\obj\Debug\net5.0\5. Movie rating.genruntimeconfig.cache

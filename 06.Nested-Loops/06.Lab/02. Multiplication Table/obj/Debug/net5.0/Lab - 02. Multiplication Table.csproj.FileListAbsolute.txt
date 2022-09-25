@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\Lab - 02. Multiplication Table.exe
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\Lab - 02. Multiplication Table.deps.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\Lab - 02. Multiplication Table.runtimeconfig.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\Lab - 02. Multiplication Table.runtimeconfig.dev.json
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\Lab - 02. Multiplication Table.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\ref\Lab - 02. Multiplication Table.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\bin\Debug\net5.0\Lab - 02. Multiplication Table.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.AssemblyInfo.cs
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\ref\Lab - 02. Multiplication Table.dll
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.pdb
+C:\Users\anton\source\repos\6. Nested Loops\Lab - 02. Multiplication Table\obj\Debug\net5.0\Lab - 02. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\Lab - 01. Day of Week.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\Lab - 01. Day of Week.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\Lab - 01. Day of Week.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\Lab - 01. Day of Week.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\Lab - 01. Day of Week.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\ref\Lab - 01. Day of Week.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\bin\Debug\net5.0\Lab - 01. Day of Week.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\ref\Lab - 01. Day of Week.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 01. Day of Week\obj\Debug\net5.0\Lab - 01. Day of Week.genruntimeconfig.cache

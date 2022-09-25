@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\Exercise - 06. Oscars.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\Exercise - 06. Oscars.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\Exercise - 06. Oscars.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\Exercise - 06. Oscars.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\Exercise - 06. Oscars.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\ref\Exercise - 06. Oscars.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\bin\Debug\net5.0\Exercise - 06. Oscars.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\ref\Exercise - 06. Oscars.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 06. Oscars\obj\Debug\net5.0\Exercise - 06. Oscars.genruntimeconfig.cache

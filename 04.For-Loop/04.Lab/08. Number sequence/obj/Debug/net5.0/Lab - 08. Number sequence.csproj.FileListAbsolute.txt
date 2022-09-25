@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\Lab - 08. Number sequence.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\Lab - 08. Number sequence.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\Lab - 08. Number sequence.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\Lab - 08. Number sequence.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\Lab - 08. Number sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\ref\Lab - 08. Number sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\bin\Debug\net5.0\Lab - 08. Number sequence.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\ref\Lab - 08. Number sequence.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 08. Number sequence\obj\Debug\net5.0\Lab - 08. Number sequence.genruntimeconfig.cache

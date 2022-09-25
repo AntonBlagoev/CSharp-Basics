@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.exe
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.deps.json
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.runtimeconfig.json
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.runtimeconfig.dev.json
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.dll
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\ref\04. Cinema Voucher.dll
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\bin\Debug\net5.0\04. Cinema Voucher.pdb
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.AssemblyInfo.cs
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.dll
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\ref\04. Cinema Voucher.dll
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.pdb
+C:\Users\anton\source\repos\Exam Prperation\04. Cinema Voucher\obj\Debug\net5.0\04. Cinema Voucher.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\Lab - 01. Numbers from 1 to 100.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\Lab - 01. Numbers from 1 to 100.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\Lab - 01. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\Lab - 01. Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\Lab - 01. Numbers from 1 to 100.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\ref\Lab - 01. Numbers from 1 to 100.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\bin\Debug\net5.0\Lab - 01. Numbers from 1 to 100.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\ref\Lab - 01. Numbers from 1 to 100.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 01. Numbers from 1 to 100\obj\Debug\net5.0\Lab - 01. Numbers from 1 to 100.genruntimeconfig.cache

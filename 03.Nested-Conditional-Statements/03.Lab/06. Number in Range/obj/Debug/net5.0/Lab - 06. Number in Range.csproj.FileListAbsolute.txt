@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\Lab - 06. Number in Range.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\Lab - 06. Number in Range.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\Lab - 06. Number in Range.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\Lab - 06. Number in Range.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\Lab - 06. Number in Range.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\ref\Lab - 06. Number in Range.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\bin\Debug\net5.0\Lab - 06. Number in Range.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\ref\Lab - 06. Number in Range.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 06. Number in Range\obj\Debug\net5.0\Lab - 06. Number in Range.genruntimeconfig.cache

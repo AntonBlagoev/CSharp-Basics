@@ -1,0 +1,16 @@
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\Exercise - 09. Fish Tank.exe
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\Exercise - 09. Fish Tank.deps.json
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\Exercise - 09. Fish Tank.runtimeconfig.json
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\Exercise - 09. Fish Tank.runtimeconfig.dev.json
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\Exercise - 09. Fish Tank.dll
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\ref\Exercise - 09. Fish Tank.dll
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\bin\Debug\net5.0\Exercise - 09. Fish Tank.pdb
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.csproj.AssemblyReference.cache
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.AssemblyInfoInputs.cache
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.AssemblyInfo.cs
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.csproj.CoreCompileInputs.cache
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.dll
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\ref\Exercise - 09. Fish Tank.dll
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.pdb
+D:\SU\#basics-csharp_01.2022\1. First Steps In Coding\Exercise - 09. Fish Tank\obj\Debug\net5.0\Exercise - 09. Fish Tank.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\Exercise - 07. Hotel Room.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\Exercise - 07. Hotel Room.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\Exercise - 07. Hotel Room.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\Exercise - 07. Hotel Room.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\Exercise - 07. Hotel Room.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\ref\Exercise - 07. Hotel Room.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\bin\Debug\net5.0\Exercise - 07. Hotel Room.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\ref\Exercise - 07. Hotel Room.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Exercise - 07. Hotel Room\obj\Debug\net5.0\Exercise - 07. Hotel Room.genruntimeconfig.cache

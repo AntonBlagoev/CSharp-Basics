@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\Lab - 12. Trade Commissions.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\Lab - 12. Trade Commissions.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\Lab - 12. Trade Commissions.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\Lab - 12. Trade Commissions.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\Lab - 12. Trade Commissions.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\ref\Lab - 12. Trade Commissions.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\bin\Debug\net5.0\Lab - 12. Trade Commissions.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\ref\Lab - 12. Trade Commissions.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 12. Trade Commissions\obj\Debug\net5.0\Lab - 12. Trade Commissions.genruntimeconfig.cache

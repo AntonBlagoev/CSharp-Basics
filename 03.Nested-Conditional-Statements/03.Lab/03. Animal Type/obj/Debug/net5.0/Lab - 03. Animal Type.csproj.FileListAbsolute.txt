@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\Lab - 03. Animal Type.exe
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\Lab - 03. Animal Type.deps.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\Lab - 03. Animal Type.runtimeconfig.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\Lab - 03. Animal Type.runtimeconfig.dev.json
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\Lab - 03. Animal Type.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\ref\Lab - 03. Animal Type.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\bin\Debug\net5.0\Lab - 03. Animal Type.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.AssemblyInfo.cs
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\ref\Lab - 03. Animal Type.dll
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.pdb
+C:\Users\anton\source\repos\3. Conditional Statements Advanced\Lab - 03. Animal Type\obj\Debug\net5.0\Lab - 03. Animal Type.genruntimeconfig.cache

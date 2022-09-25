@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\ref\Lab - 03. Numbers 1to N with Step 3.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\bin\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\ref\Lab - 03. Numbers 1to N with Step 3.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 03. Numbers 1to N with Step 3\obj\Debug\net5.0\Lab - 03. Numbers 1to N with Step 3.genruntimeconfig.cache

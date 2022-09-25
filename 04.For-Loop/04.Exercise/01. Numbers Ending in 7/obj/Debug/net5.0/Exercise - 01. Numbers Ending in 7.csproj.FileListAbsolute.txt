@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\Exercise - 01. Numbers Ending in 7.exe
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\Exercise - 01. Numbers Ending in 7.deps.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\Exercise - 01. Numbers Ending in 7.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\Exercise - 01. Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\Exercise - 01. Numbers Ending in 7.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\ref\Exercise - 01. Numbers Ending in 7.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\bin\Debug\net5.0\Exercise - 01. Numbers Ending in 7.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\ref\Exercise - 01. Numbers Ending in 7.dll
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.pdb
+C:\Users\anton\source\repos\4. For Loop\Exercise - 01. Numbers Ending in 7\obj\Debug\net5.0\Exercise - 01. Numbers Ending in 7.genruntimeconfig.cache

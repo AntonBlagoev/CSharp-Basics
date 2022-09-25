@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\Exercise - 01. Sum Seconds.exe
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\Exercise - 01. Sum Seconds.deps.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\Exercise - 01. Sum Seconds.runtimeconfig.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\Exercise - 01. Sum Seconds.runtimeconfig.dev.json
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\Exercise - 01. Sum Seconds.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\ref\Exercise - 01. Sum Seconds.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\bin\Debug\net5.0\Exercise - 01. Sum Seconds.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.AssemblyInfo.cs
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\ref\Exercise - 01. Sum Seconds.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Exercise - 01. Sum Seconds\obj\Debug\net5.0\Exercise - 01. Sum Seconds.genruntimeconfig.cache

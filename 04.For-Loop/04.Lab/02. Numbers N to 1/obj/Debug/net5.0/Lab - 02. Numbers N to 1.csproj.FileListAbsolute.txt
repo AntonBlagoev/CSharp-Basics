@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\Lab - 02. Numbers N to 1.exe
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\Lab - 02. Numbers N to 1.deps.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\Lab - 02. Numbers N to 1.runtimeconfig.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\Lab - 02. Numbers N to 1.runtimeconfig.dev.json
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\Lab - 02. Numbers N to 1.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\ref\Lab - 02. Numbers N to 1.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\bin\Debug\net5.0\Lab - 02. Numbers N to 1.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.AssemblyInfo.cs
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\ref\Lab - 02. Numbers N to 1.dll
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.pdb
+C:\Users\anton\source\repos\4. For Loop\Lab - 02. Numbers N to 1\obj\Debug\net5.0\Lab - 02. Numbers N to 1.genruntimeconfig.cache

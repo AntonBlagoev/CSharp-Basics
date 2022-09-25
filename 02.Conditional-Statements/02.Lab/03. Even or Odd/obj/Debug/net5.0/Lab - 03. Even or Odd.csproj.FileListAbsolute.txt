@@ -1,0 +1,15 @@
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\Lab - 03. Even or Odd.exe
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\Lab - 03. Even or Odd.deps.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\Lab - 03. Even or Odd.runtimeconfig.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\Lab - 03. Even or Odd.runtimeconfig.dev.json
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\Lab - 03. Even or Odd.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\ref\Lab - 03. Even or Odd.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\bin\Debug\net5.0\Lab - 03. Even or Odd.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.AssemblyInfo.cs
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\ref\Lab - 03. Even or Odd.dll
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.pdb
+C:\Users\anton\source\repos\2. Conditional Statements\Lab - 03. Even or Odd\obj\Debug\net5.0\Lab - 03. Even or Odd.genruntimeconfig.cache
