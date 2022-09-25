@@ -59,7 +59,7 @@ End Date: 27.02.2022
 ## Links 
 
 
-https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022#lesson-36460
+[https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022#lesson-36460] (link)
 
 https://judge.softuni.org/Contests/#!/List/ByCategory/15/Programming-Basics
 
