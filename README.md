@@ -32,9 +32,9 @@ End Date: 27.02.2022
 \- 01. First Steps in Coding (Exercise) - 09.01.2022, lecturer Ivet Valcheva 
 
 
-\02. Conditional Statements (Lab) - 15.01.2022, lecturer Sanya Kasarova
+\ 02. Conditional Statements (Lab) - 15.01.2022, lecturer Sanya Kasarova
 
-\02. Conditional Statements (Exercise) - 16.01.2022, lecturer Ivet Valcheva
+\ 02. Conditional Statements (Exercise) - 16.01.2022, lecturer Ivet Valcheva
 
 
 \03. Nested Conditional Statements (Lab) - 22.01.2022, lecturer Sanya Kasarova
