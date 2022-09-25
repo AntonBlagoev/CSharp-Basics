@@ -1,12 +1,13 @@
 <picture>
-  <img alt="C# Logo" src="/assets/images/CSharp.svg">
+  <img alt="C# Logo" src="./images/CSharp.svg">
 </picture>
 
 
 
 ## C# Basics - January 2022
 
-Start Date: 08.01.2022 /br
+Start Date: 08.01.2022
+
 End Date: 27.02.2022
 
 
