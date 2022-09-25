@@ -27,27 +27,34 @@ End Date: 27.02.2022
 
 ## LECTURES 
 
-01.First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova  
+01.First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova 
+
 01.First Steps in Coding (Exercise) - 09.01.2022, lecturer Ivet Valcheva  
 
 02.Conditional Statements (Lab) - 15.01.2022, lecturer Sanya Kasarova
+
 02.Conditional Statements (Exercise) - 16.01.2022, lecturer Ivet Valcheva
 
-03. Nested Conditional Statements (Lab) - 22.01.2022, lecturer Sanya Kasarova
-03. Nested Conditional Statements (Exercise) - 23.01.2022, lecturer Ivet Valcheva
+03.Nested Conditional Statements (Lab) - 22.01.2022, lecturer Sanya Kasarova
 
-04. For Loop (Lab) - 29.01.2022, lecturer Sanya Kasarova
-04. For Loop (Exercise) - 30.01.2022, lecturer Ivet Valcheva
+03.Nested Conditional Statements (Exercise) - 23.01.2022, lecturer Ivet Valcheva
 
-05. While Loop (Lab) - 05.02.2022, lecturer Sanya Kasarova
-05. While Loop (Exercise) - 06.02.2022, lecturer Ivet Valcheva
+04.For Loop (Lab) - 29.01.2022, lecturer Sanya Kasarova
 
-06. Nested Loops (Lab) - 12.02.2022, lecturer Sanya Kasarova
-06. Nested Loops (Exercise) - 13.02.2022, lecturer Ivet Valcheva
+04.For Loop (Exercise) - 30.01.2022, lecturer Ivet Valcheva
+
+05.While Loop (Lab) - 05.02.2022, lecturer Sanya Kasarova
+
+05.While Loop (Exercise) - 06.02.2022, lecturer Ivet Valcheva
+
+06.Nested Loops (Lab) - 12.02.2022, lecturer Sanya Kasarova
+
+06.Nested Loops (Exercise) - 13.02.2022, lecturer Ivet Valcheva
 
 Exam Preparation - 19.02.2022, lecturer Ivet Valcheva
 
 Preliminary Exam - 19-20.02.2022
+
 Regular Exam - 26-27.02.2022
 
 
