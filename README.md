@@ -4,12 +4,12 @@
 
 
 
-# C# Basics - January 2022
+## C# Basics - January 2022
 Start Date: 08.01.2022
 End Date: 27.02.2022
 
 
-# ABOUT COURSE 
+## ABOUT COURSE 
 
 
 Курсът "Programming Basics" дава начални умения по програмиране, необходими за всички технологични специалности в Софтуерния университет. Това включва писане на програмен код на начално ниво (basic coding skills), работа със среда за разработка (IDE), използване на променливи и данни, оператори и изрази, работа с конзолата (четене на входни данни и печатане на резултати), използване на условни конструкции (if, if-else) и цикли (for, while, do-while).
@@ -23,7 +23,7 @@ End Date: 27.02.2022
 - Работа с по-сложни цикли (вложени for цикли и while)
 
 
-# LECTURES 
+## LECTURES 
 
 
 01. First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova
@@ -50,7 +50,7 @@ Preliminary Exam - 19-20.02.2022
 Regular Exam - 26-27.02.2022
 
 
-# LINKS 
+## LINKS 
 
 
 https://softuni.bg/trainings/3620/programming-basics-with-csharp-january-2022#lesson-36460
