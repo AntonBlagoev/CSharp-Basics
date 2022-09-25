@@ -1,5 +1,5 @@
 <picture>
-  <img alt="C# Logo" src="./images/CSharp.svg">
+  <img alt="C# Logo" src="CSharp.svg">
 </picture>
 
 
