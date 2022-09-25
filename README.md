@@ -62,7 +62,9 @@ End Date: 27.02.2022
 
 [SoftUni Judge system](https://judge.softuni.org/Contests/#!/List/ByCategory/15/Programming-Basics)
 
-[Discord group of course](https://www.facebook.com/groups/PBwithCsharpJanuary2022)
+[Facebook group of course](https://www.facebook.com/groups/PBwithCsharpJanuary2022)
+
+[Discord group of course](https://discord.gg/xBY2YMB3Jg)
 
 [Paste Bin](https://pastebin.com/)
 
