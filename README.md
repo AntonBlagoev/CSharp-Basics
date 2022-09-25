@@ -22,34 +22,34 @@ End Date: 27.02.2022
 
 [00. Course Introduction](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/00.Course-Introduction)
 
-[01. First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/01.First-Steps-in-Coding)
+[01. First Steps in Coding (Lab) - 08.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/01.First-Steps-in-Coding/01.Lab)
 
-[01. First Steps in Coding (Exercise) - 09.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/01.First-Steps-in-Coding)
-
-
-[02. Conditional Statements (Lab) - 15.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/02.Conditional-Statements)
-
-[02. Conditional Statements (Exercise) - 16.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/02.Conditional-Statements)
+[01. First Steps in Coding (Exercise) - 09.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/01.First-Steps-in-Coding/01.Exercise)
 
 
-[03. Nested Conditional Statements (Lab) - 22.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/03.Nested-Conditional-Statements)
+[02. Conditional Statements (Lab) - 15.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/02.Conditional-Statements/02.Lab)
 
-[03. Nested Conditional Statements (Exercise) - 23.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/03.Nested-Conditional-Statements)
-
-
-[04. For Loop (Lab) - 29.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/04.For-Loop)
-
-[04. For Loop (Exercise) - 30.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/04.For-Loop)
+[02. Conditional Statements (Exercise) - 16.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/02.Conditional-Statements/02.Exercise)
 
 
-[05. While Loop (Lab) - 05.02.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/05.While-Loop)
+[03. Nested Conditional Statements (Lab) - 22.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/03.Nested-Conditional-Statements/03.Lab)
 
-[05. While Loop (Exercise) - 06.02.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/05.While-Loop)
+[03. Nested Conditional Statements (Exercise) - 23.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/03.Nested-Conditional-Statements/03.Exercise)
 
 
-[06. Nested Loops (Lab) - 12.02.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/06.Nested-Loops)
+[04. For Loop (Lab) - 29.01.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/04.For-Loop/04.Lab)
 
-[06. Nested Loops (Exercise) - 13.02.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/06.Nested-Loops)
+[04. For Loop (Exercise) - 30.01.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/04.For-Loop/04.Exercise)
+
+
+[05. While Loop (Lab) - 05.02.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/05.While-Loop/05.Lab)
+
+[05. While Loop (Exercise) - 06.02.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/05.While-Loop/05.Exercise)
+
+
+[06. Nested Loops (Lab) - 12.02.2022, lecturer Sanya Kasarova](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/06.Nested-Loops/06.Lab)
+
+[06. Nested Loops (Exercise) - 13.02.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/06.Nested-Loops/06.Exercise)
 
 
 [Exam Preparation - 19.02.2022, lecturer Ivet Valcheva](https://github.com/AntonBlagoev/CSharp-Basics/tree/main/Exam-Preparation)
